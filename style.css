@@ -18,9 +18,9 @@ body{
 }
 .wrapper{
   background: #fff;
-  max-width: 450px;
+  max-width: 550px;
   width: 100%;
-  border-radius: 16px;
+  border-radius: 50px;
   box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
               0 32px 64px -48px rgba(0,0,0,0.5);
 }
@@ -83,9 +83,9 @@ body{
 .form form .button input{
   height: 45px;
   border: none;
-  color: #fff;
+  color: ##e7e7e7;
   font-size: 17px;
-  background: #333;
+  background: ##e7e7e7;
   border-radius: 5px;
   cursor: pointer;
   margin-top: 13px;
@@ -108,7 +108,7 @@ body{
   font-size: 17px;
 }
 .form .link a{
-  color: #333;
+  color: ##e7e7e7;
 }
 .form .link a:hover{
   text-decoration: underline;
@@ -411,3 +411,4 @@ body{
     width: 45px;
   }
 }
+
